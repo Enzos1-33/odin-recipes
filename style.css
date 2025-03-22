@@ -1,0 +1,17 @@
+/* styles.css */
+
+
+
+*{
+background-color: beige;
+}
+
+h1{
+    font-size: xx-large;
+    font-weight: bold;
+    
+}
+
+div{
+    background-color: aquamarine;
+}
